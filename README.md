@@ -14,3 +14,20 @@
 ***This is Rajeswari***
 
 [google](www.google.com)
+
+![Doraemon](https://rukminim1.flixcart.com/image/416/416/poster/n/k/d/poster-doraemon-cartoon-763-sps763-medium-original-imaeesh8qhrhhqhz.jpeg?q=70)
+
+* fruits
+  * mango
+  * banana
+  * apple
+  * grapes 
+
+1. flowers
+    1. rose
+    2. lily
+    3. jasmine
+
+Table 1|table 2
+-------|-------
+NAME|Roll NO
